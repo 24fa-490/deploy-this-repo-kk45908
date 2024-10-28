@@ -26,6 +26,4 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-
-
+<https://deploy-this-repo-kk45908.vercel.app>
