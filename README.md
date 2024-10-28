@@ -24,8 +24,6 @@
 
 *Comments and feedback welcome!*
 
-# Where am I deployed?
-
-deploy-this-repo-kk45908.vercel.app
+# Where am I deployed? deploy-this-repo-kk45908.vercel.app
 
 
